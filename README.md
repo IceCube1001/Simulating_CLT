@@ -1,2 +1,2 @@
 # Simulating_CLT
-Simulating_CentralLimitTheorem
+Simulating The Central Limit Theorem
